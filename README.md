@@ -3,10 +3,10 @@ CONSISTS OF MY WORK IN AI_DRIVED_ADAPTIVE_LEARNING SYSTEM PROJECT AT FOSSEE, IIT
 
 
 
-## 1. *ERROR CLASSIFIER DETAILS AND LINK TO FOLDER:*
+## 1. *Execution Error Taxonomy and Fuzzy-Based Classification DETAILS AND LINK TO FOLDER:*
 <p align="center">
- <a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
-    [View on GITHUB]
+ <a href="https://github.com/Anshuman22coder/AI_DRIVED_ADAPTIVE_BUG_FEEDBACK/tree/bc8c220a27f88951fe502b053ae488b58ce67d15/error_classifier" target="_blank" rel="noopener noreferrer">
+    [View GITHUB folder]
   </a>
 </p>
 
@@ -25,4 +25,4 @@ The following taxonomy defines the major categories of execution and programming
 | **G** | **Mutability & Reference Traps**  | Bugs caused by improper management of mutable objects and reference semantics. This includes modifying collections while iterating, shallow-copy issues, unintended object sharing, aliasing, and unintended mutations between variables.                                                            | Not manually detected                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **H** | **Math & Transformation Errors**  | Errors where the code applies an incorrect computational or structural transformation. This includes arithmetic mistakes, incorrect operators or formulas, division by zero, sign errors, string manipulation issues, regular-expression errors, and flawed aggregation or sequence transformations. | **MT01:** `ZeroDivisionError: division by zero`<br>**MT02:** `ZeroDivisionError: float division by zero`                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **N** | **No Error Detected**             | Represents cases where no execution error is detected or no applicable error category is identified.                                                                                                                                                                                                 | —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
