@@ -5,7 +5,7 @@ CONSISTS OF MY WORK IN AI_DRIVED_ADAPTIVE_LEARNING SYSTEM PROJECT AT FOSSEE, IIT
 
 ## 1. *Execution Error Taxonomy and Fuzzy-Based Classification DETAILS AND LINK TO FOLDER:*
 <p align="center">
- <a href="https://github.com/Anshuman22coder/AI_DRIVED_ADAPTIVE_BUG_FEEDBACK/tree/bc8c220a27f88951fe502b053ae488b58ce67d15/error_classifier" target="_blank" rel="noopener noreferrer">
+ <a href="https://github.com/Anshuman22coder/AI_DRIVEN_ADAPTIVE_BUG_FEEDBACK/tree/bc8c220a27f88951fe502b053ae488b58ce67d15/error_classifier" target="_blank" rel="noopener noreferrer">
     [View GITHUB folder]
   </a>
 </p>
